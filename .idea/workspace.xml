@@ -1,256 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="Add MHD.">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Space-Weather-ROM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUX/OpInf-3-Variables-Quadradic-Intrusive-Not-Scaled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUX/OpInf-3-Variables-Quadradic-Intrusive-Scaled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUX/ROM-Lagrangian-Coordinates-New-Approach-All Latitudes.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUX/ROM-Lagrangian-Coordinates-New-Approach-Analytic-Validation.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUX/ROM-Lagrangian-Coordinates.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUX/SW-ROM-Shift-and-Lift.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUX/SW-ROM-Shifted-Scaled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUX/SW-ROM-Shifted.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/archimedes_sprial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/carrington_dates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/hux_propagation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/numerical_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_101.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_102.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_103.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_105.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_106.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_107.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_109.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_110.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_112.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_113.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_115.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_116.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_117.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_118.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_119.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_121.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_122.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_123.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_124.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_125.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_126.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_127.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_129.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_130.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_131.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_132.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_133.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_134.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_135.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_136.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_137.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_138.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_139.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_38.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_43.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_45.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_46.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_49.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_52.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_53.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_54.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_56.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_59.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_61.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_62.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_63.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_65.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_66.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_67.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_68.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_69.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_71.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_73.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_74.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_75.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_77.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_78.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_79.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_81.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_82.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_83.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_85.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_86.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_87.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_88.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_89.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_90.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_91.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_92.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_93.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_94.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_95.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_97.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_98.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Animation/fig_99.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/Burgers/singular_value_decay_burgers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/L2_error_operator_inference_mhd_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/L2_error_operator_inference_mhd_A_vs_H.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/L2_error_operator_inference_mhd_H.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/L2_error_operator_inference_mhd_cAH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/equator_velocity_profile_shifted_and_original.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/linear_2d_reconstruction_shifted_operator_inference_mhd_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/original_dataset_MHD.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/pcc_rank_shifted_opinf_mhd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/pcc_shifted_operator_inference_mhd_A_2245.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/pcc_shifted_operator_inference_mhd_H.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/pcc_shifted_operator_inference_mhd_cAH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/shifted_dataset.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/shifted_opinf_results_mhd_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/shifted_opinf_results_mhd_cAH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/shifted_opinf_results_quadratic_2D_profile_H.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/shifted_opinf_results_quadratic_2D_profile_cAH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2243/singular_value_decay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/L2_error_operator_inference_mhd_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/L2_error_operator_inference_mhd_A_vs_H.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/L2_error_operator_inference_mhd_H.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/L2_error_operator_inference_mhd_cAH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/equator_velocity_profile_shifted_and_original.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/linear_2d_reconstruction_shifted_operator_inference_mhd_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/original_dataset_MHD.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/pcc_rank_shifted_opinf_mhd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/pcc_shifted_operator_inference_mhd_A_2245.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/pcc_shifted_operator_inference_mhd_H.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/pcc_shifted_operator_inference_mhd_cAH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/shifted_dataset.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/shifted_opinf_results_mhd_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/shifted_opinf_results_mhd_cAH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/shifted_opinf_results_quadratic_2D_profile_H.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/shifted_opinf_results_quadratic_2D_profile_cAH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2244/singular_value_decay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2245/L2_error_operator_inference_mhd_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2245/equator_velocity_profile_shifted_and_original.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2245/linear_2d_reconstruction_shifted_operator_inference_mhd_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2245/original_dataset_MHD.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2245/original_dataset_MHD_2245.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2245/pcc_shifted_operator_inference_mhd_A_2245.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2245/shifted_dataset.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2245/shifted_opinf_results_mhd_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/CR2245/singular_value_decay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_A_vs_H.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_H.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/LiftedQuantities/q.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/LiftedQuantities/q_shifted.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/LiftedQuantities/v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/LiftedQuantities/w.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/LiftedQuantities/y.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/LiftedQuantities/z.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/LiftedQuantities/z_shifted.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/al_latitude_result_linear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/archimedes_spiral.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/comparison-of-techniques-cc-np128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/equator_velocity_profile_shifted_and_original.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/linear_2d_reconstruction_shifted_operator_inference_mhd_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/mhd_2D_ROM_shifted_slices.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/mhd_2D_VROM_slices.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/mhd_2D_XROM_shifted_slices.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/mhd_2D_shifted_slices.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/mhd_2D_slices.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/operator_inference_alg.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/original_dataset.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/original_dataset_MHD.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/original_dataset_MHD_2245.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/pcc_rank_shifted_opinf_mhd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/pcc_shifted_operator_inference_mhd_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/pcc_shifted_operator_inference_mhd_A_2245.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/pcc_shifted_operator_inference_mhd_H.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/shifted_dataset.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/shifted_dataset_2245.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/shifted_opinf_results_linear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/shifted_opinf_results_linear_mhd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/shifted_opinf_results_mhd_A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/shifted_opinf_results_mhd_H.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/shifted_opinf_results_quadratic_2D_profile_H.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/shifted_opinf_results_quadratic_H.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/shifted_opinf_results_quadratic_cAH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/singular_value_decay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/velocity_shifted_2d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figs/velocity_shifted_abs_difference_heatmap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/MASweb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/psihdf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/psihdf4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/test_psipy.py" afterDir="false" />
-    </list>
+    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="Add figs." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -280,7 +31,7 @@
       <updated>1639173830558</updated>
       <workItem from="1639173832852" duration="6000" />
       <workItem from="1639173842140" duration="92000" />
-      <workItem from="1639174017429" duration="335000" />
+      <workItem from="1639174017429" duration="934000" />
     </task>
     <task id="LOCAL-00001" summary="ignore data files.">
       <created>1639173902875</created>
@@ -296,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639174086446</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add figs.">
+      <created>1639174374063</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639174374063</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,6 +75,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ignore data files." />
     <MESSAGE value="Add MHD." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add MHD." />
+    <MESSAGE value="Add figs." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add figs." />
   </component>
 </project>
