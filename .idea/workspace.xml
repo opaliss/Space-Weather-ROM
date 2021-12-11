@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="Add figs." />
+    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="UPDATE README.">
+      <change afterPath="$PROJECT_DIR$/Burgers/Burgers-Eq-ROM-Shifted.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Burgers/ROM-New-Shift-Approach-Burgers-Eq-Quadratic-Form.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw_vid.mov" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +35,7 @@
       <updated>1639173830558</updated>
       <workItem from="1639173832852" duration="6000" />
       <workItem from="1639173842140" duration="92000" />
-      <workItem from="1639174017429" duration="934000" />
+      <workItem from="1639174017429" duration="1530000" />
     </task>
     <task id="LOCAL-00001" summary="ignore data files.">
       <created>1639173902875</created>
@@ -54,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639174374063</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="UPDATE README.">
+      <created>1639175106286</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639175106286</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +87,7 @@
     <MESSAGE value="ignore data files." />
     <MESSAGE value="Add MHD." />
     <MESSAGE value="Add figs." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add figs." />
+    <MESSAGE value="UPDATE README." />
+    <option name="LAST_COMMIT_MESSAGE" value="UPDATE README." />
   </component>
 </project>
