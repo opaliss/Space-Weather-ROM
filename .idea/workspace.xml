@@ -2,24 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="Add JB data (gitignore)">
-      <change afterPath="$PROJECT_DIR$/JB/JB-ROM-Shifted.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JB/figs/JB_altitude-latitude.mov" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JB/figs/JB_altitude-local-time.mov" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JB/figs/JB_local-time-latitude.mov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Space-Weather-ROM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Space-Weather-ROM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Burgers/ROM-New-Shift-Approach-Burgers-Eq-Quadratic-Form.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Burgers/ROM-New-Shift-Approach-Burgers-Eq-Quadratic-Form.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-1D-LowRes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-1D-LowRes-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-2D-LowRes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-2D-LowRes-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-HighRes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-HighRes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-LowRes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-LowRes.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-2D-LowRes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-2D-LowRes.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/Animation/fig_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/Animation/fig_0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/Animation/fig_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/Animation/fig_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/Animation/fig_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/Animation/fig_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/Animation/fig_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/Animation/fig_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/Animation/fig_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/Animation/fig_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/CR2243/L2_error_operator_inference_mhd_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/CR2243/L2_error_operator_inference_mhd_A.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/CR2243/linear_2d_reconstruction_shifted_operator_inference_mhd_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/CR2243/linear_2d_reconstruction_shifted_operator_inference_mhd_A.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/CR2243/pcc_shifted_operator_inference_mhd_A_2245.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/CR2243/pcc_shifted_operator_inference_mhd_A_2245.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/CR2243/shifted_opinf_results_mhd_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/CR2243/shifted_opinf_results_mhd_A.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw_vid.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/mhd_2d_slices.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/mhd_2d_slices.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/CR2243/singular_value_decay.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/CR2243/singular_value_decay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_A.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_A_vs_H.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_A_vs_H.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_H.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_H.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/linear_2d_reconstruction_shifted_operator_inference_mhd_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/linear_2d_reconstruction_shifted_operator_inference_mhd_A.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/original_dataset_MHD.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/original_dataset_MHD.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/pcc_rank_shifted_opinf_mhd.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/pcc_rank_shifted_opinf_mhd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/pcc_shifted_operator_inference_mhd_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/pcc_shifted_operator_inference_mhd_A.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/pcc_shifted_operator_inference_mhd_H.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/pcc_shifted_operator_inference_mhd_H.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/shifted_dataset.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/shifted_dataset.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/shifted_opinf_results_mhd_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/shifted_opinf_results_mhd_A.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/shifted_opinf_results_mhd_H.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/shifted_opinf_results_mhd_H.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/shifted_opinf_results_quadratic_2D_profile_H.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/shifted_opinf_results_quadratic_2D_profile_H.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/singular_value_decay.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/singular_value_decay.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +44,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MHD/figs" />
+      <recent name="$PROJECT_DIR$/Data/Data_SW" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -51,7 +63,7 @@
       <workItem from="1639173832852" duration="6000" />
       <workItem from="1639173842140" duration="92000" />
       <workItem from="1639174017429" duration="1998000" />
-      <workItem from="1639419843136" duration="7511000" />
+      <workItem from="1639419843136" duration="13496000" />
     </task>
     <task id="LOCAL-00001" summary="ignore data files.">
       <created>1639173902875</created>
@@ -123,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639437137488</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add JB data (gitignore)">
+      <created>1639512653524</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1639512653524</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
