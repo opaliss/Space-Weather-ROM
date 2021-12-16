@@ -1,30 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="Add JB data (gitignore)">
-      <change beforePath="$PROJECT_DIR$/.idea/Space-Weather-ROM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Space-Weather-ROM.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="fix theta axis (flipped)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Burgers/ROM-New-Shift-Approach-Burgers-Eq-Quadratic-Form.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Burgers/ROM-New-Shift-Approach-Burgers-Eq-Quadratic-Form.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-1D-LowRes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-1D-LowRes-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-2D-LowRes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-2D-LowRes-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-LowRes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-LowRes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-FineLongGrid.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-FineLongGrid.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-2D-LowRes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-2D-LowRes.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/mhd_2d_slices.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/mhd_2d_slices.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/CR2243/singular_value_decay.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/CR2243/singular_value_decay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_A.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_A_vs_H.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_A_vs_H.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_H.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_H.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/linear_2d_reconstruction_shifted_operator_inference_mhd_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/linear_2d_reconstruction_shifted_operator_inference_mhd_A.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/original_dataset_MHD.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/original_dataset_MHD.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/pcc_rank_shifted_opinf_mhd.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/pcc_rank_shifted_opinf_mhd.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/pcc_shifted_operator_inference_mhd_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/pcc_shifted_operator_inference_mhd_A.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/pcc_shifted_operator_inference_mhd_H.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/pcc_shifted_operator_inference_mhd_H.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/shifted_dataset.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/shifted_dataset.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/shifted_opinf_results_mhd_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/shifted_opinf_results_mhd_A.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/shifted_opinf_results_mhd_H.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/shifted_opinf_results_mhd_H.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/shifted_opinf_results_quadratic_2D_profile_H.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/shifted_opinf_results_quadratic_2D_profile_H.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figs/singular_value_decay.png" beforeDir="false" afterPath="$PROJECT_DIR$/figs/singular_value_decay.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +44,7 @@
       <workItem from="1639173832852" duration="6000" />
       <workItem from="1639173842140" duration="92000" />
       <workItem from="1639174017429" duration="1998000" />
-      <workItem from="1639419843136" duration="13496000" />
+      <workItem from="1639419843136" duration="14776000" />
     </task>
     <task id="LOCAL-00001" summary="ignore data files.">
       <created>1639173902875</created>
@@ -142,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639512653524</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fix theta axis (flipped)">
+      <created>1639607149193</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1639607149193</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +158,7 @@
     <MESSAGE value="Add MHD 2D results for linear model." />
     <MESSAGE value="optimize rank and regularization coefficient." />
     <MESSAGE value="Add JB data (gitignore)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add JB data (gitignore)" />
+    <MESSAGE value="fix theta axis (flipped)" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix theta axis (flipped)" />
   </component>
 </project>
