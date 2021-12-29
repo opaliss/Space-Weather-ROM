@@ -1,4 +1,0 @@
-from code.numerical_methods import apply_numerical_method
-from code import numerical_methods
-from code import archimedes_sprial
-from code import hux_propagation

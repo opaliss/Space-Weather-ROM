@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="Update cross-correlation to be 2D for MHD results.">
+    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="remove thermospheric density results from GitHub.">
+      <change afterPath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-Tutorial.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-LowRes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-LowRes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
       <workItem from="1639173842140" duration="92000" />
       <workItem from="1639174017429" duration="1998000" />
       <workItem from="1639419843136" duration="15340000" />
-      <workItem from="1640727180742" duration="1618000" />
+      <workItem from="1640727180742" duration="2301000" />
     </task>
     <task id="LOCAL-00001" summary="ignore data files.">
       <created>1639173902875</created>
@@ -144,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640741410957</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="remove thermospheric density results from GitHub.">
+      <created>1640755880290</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1640755880290</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +183,7 @@
     <MESSAGE value="fix theta axis (flipped)" />
     <MESSAGE value="correct directory imports." />
     <MESSAGE value="Update cross-correlation to be 2D for MHD results." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update cross-correlation to be 2D for MHD results." />
+    <MESSAGE value="remove thermospheric density results from GitHub." />
+    <option name="LAST_COMMIT_MESSAGE" value="remove thermospheric density results from GitHub." />
   </component>
 </project>
