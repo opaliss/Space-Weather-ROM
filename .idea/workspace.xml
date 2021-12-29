@@ -1,11 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="remove thermospheric density results from GitHub.">
-      <change afterPath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-Tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/__init__.py" beforeDir="false" />
+    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="ignore fine-longitude-grid cc notebook.">
+      <change afterPath="$PROJECT_DIR$/Burgers/.ipynb_checkpoints/Burgers-Eq-ROM-Shifted-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Burgers/.ipynb_checkpoints/ROM-New-Shift-Approach-Burgers-Eq-Quadratic-Form-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrossCorrelation/.ipynb_checkpoints/Cross-Correlation-FineLongitudeGrid-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrossCorrelation/.ipynb_checkpoints/Cross-Correlation-Tutorial-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrossCorrelation/figs/2_snapshots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrossCorrelation/figs/2d-cc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrossCorrelation/figs/cc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrossCorrelation/figs/comparison-of-techniques-cc-np128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrossCorrelation/figs/comparison-of-techniques-cc-np500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrossCorrelation/figs/cross-correlation-shift-500np.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrossCorrelation/figs/velocity_shifted_2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrossCorrelation/figs/velocity_shifted_abs_difference_heatmap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-FineLongitudeGrid.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-FineLongitudeGrid.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-Tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-Tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/Burgers/singular_value_decay_burgers.png" beforeDir="false" afterPath="$PROJECT_DIR$/Burgers/figs/singular_value_decay_burgers.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_A.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_A_vs_H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/L2_error_operator_inference_mhd_H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/al_latitude_result_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/archimedes_spiral.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/comparison-of-techniques-cc-np128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/equator_velocity_profile_shifted_and_original.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/linear_2d_reconstruction_shifted_operator_inference_mhd_A.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/mhd_2D_ROM_shifted_slices.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/mhd_2D_VROM_slices.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/mhd_2D_XROM_shifted_slices.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/mhd_2D_shifted_slices.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/mhd_2D_slices.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/operator_inference_alg.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/original_dataset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/original_dataset_MHD.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/original_dataset_MHD_2245.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/pcc_rank_shifted_opinf_mhd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/pcc_shifted_operator_inference_mhd_A.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/pcc_shifted_operator_inference_mhd_A_2245.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/pcc_shifted_operator_inference_mhd_H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/shifted_dataset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/shifted_dataset_2245.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/shifted_opinf_results_linear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/shifted_opinf_results_linear_mhd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/shifted_opinf_results_mhd_A.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/shifted_opinf_results_mhd_H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/shifted_opinf_results_quadratic_2D_profile_H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/shifted_opinf_results_quadratic_H.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/shifted_opinf_results_quadratic_cAH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/singular_value_decay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/velocity_shifted_2d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figs/velocity_shifted_abs_difference_heatmap.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +74,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HUX/figs" />
+      <recent name="$PROJECT_DIR$/Burgers/figs" />
       <recent name="$PROJECT_DIR$/MHD/figs" />
       <recent name="$PROJECT_DIR$/Data/Data_SW" />
     </key>
@@ -45,7 +92,7 @@
       <workItem from="1639173842140" duration="92000" />
       <workItem from="1639174017429" duration="1998000" />
       <workItem from="1639419843136" duration="15340000" />
-      <workItem from="1640727180742" duration="2301000" />
+      <workItem from="1640727180742" duration="3326000" />
     </task>
     <task id="LOCAL-00001" summary="ignore data files.">
       <created>1639173902875</created>
@@ -152,7 +199,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640755880290</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="ignore fine-longitude-grid cc notebook.">
+      <created>1640757422234</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1640757422234</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ignore fine-longitude-grid cc notebook.">
+      <created>1640757506472</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1640757506472</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +245,7 @@
     <MESSAGE value="correct directory imports." />
     <MESSAGE value="Update cross-correlation to be 2D for MHD results." />
     <MESSAGE value="remove thermospheric density results from GitHub." />
-    <option name="LAST_COMMIT_MESSAGE" value="remove thermospheric density results from GitHub." />
+    <MESSAGE value="ignore fine-longitude-grid cc notebook." />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore fine-longitude-grid cc notebook." />
   </component>
 </project>
