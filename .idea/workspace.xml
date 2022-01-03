@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="clean figs.">
+    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="update Jan 2nd, 2021.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,8 @@
       <workItem from="1639174017429" duration="1998000" />
       <workItem from="1639419843136" duration="15340000" />
       <workItem from="1640727180742" duration="4124000" />
+      <workItem from="1641151527482" duration="1029000" />
+      <workItem from="1641153415425" duration="120000" />
     </task>
     <task id="LOCAL-00001" summary="ignore data files.">
       <created>1639173902875</created>
@@ -172,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640758702714</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update Jan 2nd, 2021.">
+      <created>1641151544983</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1641151544983</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +215,7 @@
     <MESSAGE value="remove thermospheric density results from GitHub." />
     <MESSAGE value="ignore fine-longitude-grid cc notebook." />
     <MESSAGE value="clean figs." />
-    <option name="LAST_COMMIT_MESSAGE" value="clean figs." />
+    <MESSAGE value="update Jan 2nd, 2021." />
+    <option name="LAST_COMMIT_MESSAGE" value="update Jan 2nd, 2021." />
   </component>
 </project>
