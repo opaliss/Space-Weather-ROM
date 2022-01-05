@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="add streamline figure to MHD notebook.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CrossCorrelation/.ipynb_checkpoints/Cross-Correlation-Tutorial-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CrossCorrelation/.ipynb_checkpoints/Cross-Correlation-Tutorial-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-Tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-Tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-1D-LowRes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-1D-LowRes-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-LowRes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-LowRes.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="add qualitative error results." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +45,7 @@
       <workItem from="1640727180742" duration="4124000" />
       <workItem from="1641151527482" duration="1029000" />
       <workItem from="1641153415425" duration="120000" />
-      <workItem from="1641232664111" duration="2918000" />
+      <workItem from="1641232664111" duration="2957000" />
     </task>
     <task id="LOCAL-00001" summary="ignore data files.">
       <created>1639173902875</created>
@@ -221,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641313200986</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="add qualitative error results.">
+      <created>1641359917136</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1641359917136</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +260,7 @@
     <MESSAGE value="add burgers results." />
     <MESSAGE value="save only one notebook for burgers." />
     <MESSAGE value="add streamline figure to MHD notebook." />
-    <option name="LAST_COMMIT_MESSAGE" value="add streamline figure to MHD notebook." />
+    <MESSAGE value="add qualitative error results." />
+    <option name="LAST_COMMIT_MESSAGE" value="add qualitative error results." />
   </component>
 </project>
