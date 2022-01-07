@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="add qualitative error results." />
+    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="update MHD 2D optimization of r and lambda.">
+      <change afterPath="$PROJECT_DIR$/HUX/.ipynb_checkpoints/OpInf-3-Variables-Quadradic-Intrusive-Scaled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/.ipynb_checkpoints/SW-ROM-Shift-and-Lift-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/.ipynb_checkpoints/SW-ROM-Shifted-HUX-LowRes-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/SW-ROM-Shifted-HUX-LowRes.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/A/L2_error_operator_inference_mhd_A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/A/Relative_Error_HUX_A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/A/pcc_shifted_operator_inference_mhd_A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/A/sensitivity_to_number_of_training_snapshots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/A/shifted_HUX_relative_error_H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/A/shifted_opinf_results_hux_A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/A/shifted_opinf_results_quadratic_2D_profile_H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/original_dataset_HUX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/shifted_dataset_HUX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/singular_value_decay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-Tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-Tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/ROM-Lagrangian-Coordinates.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/SW-ROM-Shift-and-Lift.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/SW-ROM-Shift-and-Lift.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/SW-ROM-Shifted-Scaled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/SW-ROM-Shifted.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/figs/LiftedQuantities/z_shifted.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/LiftedQuantities/z_shifted.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-1D-LowRes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-1D-LowRes-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-2D-LowRes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-2D-LowRes-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-LowRes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-LowRes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-2D-LowRes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-2D-LowRes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/A/Relative_Error_MHD_A_1D.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/A/Relative_Error_MHD_A_1D.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/H/mhd_2D_VROM_slices.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/mhd_2D_VROM_slices.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/H/mhd_2D_relative_error.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/mhd_2D_relative_error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/mhd_2D_relative_error.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/mhd_2D_relative_error.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +54,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HUX" />
       <recent name="$PROJECT_DIR$/HUX/figs" />
       <recent name="$PROJECT_DIR$/Burgers/figs" />
       <recent name="$PROJECT_DIR$/MHD/figs" />
@@ -46,6 +77,7 @@
       <workItem from="1641151527482" duration="1029000" />
       <workItem from="1641153415425" duration="120000" />
       <workItem from="1641232664111" duration="2957000" />
+      <workItem from="1641411897584" duration="2089000" />
     </task>
     <task id="LOCAL-00001" summary="ignore data files.">
       <created>1639173902875</created>
@@ -222,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641359917136</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="update MHD 2D optimization of r and lambda.">
+      <created>1641411926133</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1641411926133</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +300,7 @@
     <MESSAGE value="save only one notebook for burgers." />
     <MESSAGE value="add streamline figure to MHD notebook." />
     <MESSAGE value="add qualitative error results." />
-    <option name="LAST_COMMIT_MESSAGE" value="add qualitative error results." />
+    <MESSAGE value="update MHD 2D optimization of r and lambda." />
+    <option name="LAST_COMMIT_MESSAGE" value="update MHD 2D optimization of r and lambda." />
   </component>
 </project>
