@@ -1,6 +1,5 @@
 # Space-Weather-ROM
-ROM for convective-dominated models with applications to space weather, including modeling solar wind proton velocity 
-and the thermospheric density. 
+ROM for convective-dominated models with applications to space weather, including solar wind velocity modeling. 
 
 
 # Dependencies
