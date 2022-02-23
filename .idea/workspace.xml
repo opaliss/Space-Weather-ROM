@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="sopinf for hux (QUADRATIC).">
-      <change beforePath="$PROJECT_DIR$/HUX/.ipynb_checkpoints/SW-ROM-Shifted-HUX-LowRes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/.ipynb_checkpoints/SW-ROM-Shifted-HUX-LowRes-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/SW-ROM-Shifted-HUX-LowRes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/SW-ROM-Shifted-HUX-LowRes.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-1D-LowRes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-1D-LowRes-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-LowRes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-LowRes.ipynb" afterDir="false" />
+    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="fix figures for manuscript.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +51,8 @@
       <workItem from="1641232664111" duration="2957000" />
       <workItem from="1641411897584" duration="2537000" />
       <workItem from="1644864271954" duration="1388000" />
+      <workItem from="1644953879608" duration="32000" />
+      <workItem from="1644953941158" duration="639000" />
     </task>
     <task id="LOCAL-00001" summary="ignore data files.">
       <created>1639173902875</created>
@@ -258,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644885434066</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="fix figures for manuscript.">
+      <created>1644953902326</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1644953902326</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,6 +306,7 @@
     <MESSAGE value="update MHD 2D optimization of r and lambda." />
     <MESSAGE value="test commit." />
     <MESSAGE value="sopinf for hux (QUADRATIC)." />
-    <option name="LAST_COMMIT_MESSAGE" value="sopinf for hux (QUADRATIC)." />
+    <MESSAGE value="fix figures for manuscript." />
+    <option name="LAST_COMMIT_MESSAGE" value="fix figures for manuscript." />
   </component>
 </project>
