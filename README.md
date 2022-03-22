@@ -16,11 +16,7 @@ ROM for convective-dominated models with applications to space weather, includin
 # Data 
 All data from MAS MHD model results can be downloaded using [PsiPy](https://psipy.readthedocs.io/en/stable/auto_examples/sampling/plot_in_situ_comparison.html#sphx-glr-auto-examples-sampling-plot-in-situ-comparison-py) and [HelioPy](https://docs.heliopy.org/en/stable/index.html). 
 
-# Authors
-- Opal Issan, oissan@ucsd.edu
-
-**Correspondence**:
-
+# Correspondence:
 Opal Issan (PhD student), University of California, San Diego. oissan@ucsd.edu
 
 # License

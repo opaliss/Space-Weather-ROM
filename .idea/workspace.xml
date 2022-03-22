@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="add images.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-FineLongitudeGrid.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/OpInf-3-Variables-Quadradic-Intrusive-Not-Scaled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/OpInf-3-Variables-Quadradic-Intrusive-Scaled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/ROM-Lagrangian-Coordinates-New-Approach-All Latitudes.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/ROM-Lagrangian-Coordinates-New-Approach-Analytic-Validation.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/SW-ROM-Shift-and-Lift.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/SW-ROM-Shifted-HUX-LowRes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/sOpInf-HUX-Equator.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/Shift-Lift-Learn-HUX-LowRes.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/figs/LiftedQuantities/q.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/figs/LiftedQuantities/q_shifted.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/figs/LiftedQuantities/v.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/figs/LiftedQuantities/w.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/figs/LiftedQuantities/y.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/figs/LiftedQuantities/z.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/figs/LiftedQuantities/z_shifted.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-MHD.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-HighRes.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-LowRes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/sOpInf-MHD-Equator.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-2D-HighRes.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-2D-LowRes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/sOpInf-MHD-FullSun.ipynb" afterDir="false" />
+    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="rename files.">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +54,7 @@
       <workItem from="1644953879608" duration="32000" />
       <workItem from="1644953941158" duration="1351000" />
       <workItem from="1646247163501" duration="50000" />
-      <workItem from="1647909510310" duration="2044000" />
+      <workItem from="1647909510310" duration="2398000" />
     </task>
     <task id="LOCAL-00001" summary="ignore data files.">
       <created>1639173902875</created>
@@ -349,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647926755957</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="rename files.">
+      <created>1647927563555</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1647927563555</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,7 +355,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add License." />
     <MESSAGE value="Add MHD 2D results for linear model." />
     <MESSAGE value="optimize rank and regularization coefficient." />
     <MESSAGE value="Add JB data (gitignore)" />
@@ -393,6 +379,7 @@
     <MESSAGE value="ignore thermosphere data." />
     <MESSAGE value="remove other cr data." />
     <MESSAGE value="add images." />
-    <option name="LAST_COMMIT_MESSAGE" value="add images." />
+    <MESSAGE value="rename files." />
+    <option name="LAST_COMMIT_MESSAGE" value="rename files." />
   </component>
 </project>
