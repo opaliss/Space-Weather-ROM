@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="ignore thermosphere data." />
+    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="remove other cr data.">
+      <change afterPath="$PROJECT_DIR$/CrossCorrelation/figs/cc_1AU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrossCorrelation/figs/cc_30rs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrossCorrelation/figs/cc_subfigure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/H/shifted_HUX_relative_error_H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/H/shifted_opinf_results_mhd_H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/H/sopinf_results_hux_H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/H/sopinf_results_mhd_H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/H/sopinf_vs_hux_H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/cAH/L2_error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/cAH/shifted_HUX_relative_error_cAH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/cAH/shifted_opinf_results_hux_cAH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/cAH/sopinf_results_hux_cAH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/cAH/sopinf_vs_hux_cAH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/figs/CR2210/singular_value_decay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/MAS_HUX_sOpInf_H_streamlines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/MAS_equator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/RE_equator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/sOpInf_equator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/sopinf_vs_MAS_H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/sopinf_vs_MAS_H_2dprofile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/HUX_streamlines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/HUX_vs_MAS_streamlines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/MAS_streamlines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/MHD_HUX_OpInf_streamlines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/L2_error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/RE-comparison-cAH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/shifted_HUX_relative_error_cAH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/sopinf_vs_mhd_cAH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cdf_streamlines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/mhd_2D_shifted_slices.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/mhd_2d_slices.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/sOpInf_streamlines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/sOpInf_vs_MAS_streamlines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/singular_value_decay_MAS_equator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/singular_value_decay_mhd_equator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/sopinf_vs_MAS_H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/MAS_polar_original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/MAS_polar_shifted.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/cr2210_30rs_equator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/cr2210_30rs_slice.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +94,7 @@
       <workItem from="1644953879608" duration="32000" />
       <workItem from="1644953941158" duration="1351000" />
       <workItem from="1646247163501" duration="50000" />
-      <workItem from="1647909510310" duration="336000" />
+      <workItem from="1647909510310" duration="1184000" />
     </task>
     <task id="LOCAL-00001" summary="ignore data files.">
       <created>1639173902875</created>
@@ -306,7 +348,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647909753671</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="ignore thermosphere data.">
+      <created>1647909928938</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1647909928938</updated>
+    </task>
+    <task id="LOCAL-00038" summary="remove other cr data.">
+      <created>1647910012862</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1647910012862</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,7 +381,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="UPDATE README." />
     <MESSAGE value="add to git" />
     <MESSAGE value="Add License." />
     <MESSAGE value="Add MHD 2D results for linear model." />
@@ -350,6 +405,7 @@
     <MESSAGE value="fix date of edit." />
     <MESSAGE value="update figures for publication." />
     <MESSAGE value="ignore thermosphere data." />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore thermosphere data." />
+    <MESSAGE value="remove other cr data." />
+    <option name="LAST_COMMIT_MESSAGE" value="remove other cr data." />
   </component>
 </project>
