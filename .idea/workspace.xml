@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="fix date of edit.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-1D-LowRes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-1D-LowRes-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-2D-LowRes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/.ipynb_checkpoints/SW-ROM-Shifted-MHD-2D-LowRes-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-LowRes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-1D-LowRes.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-2D-LowRes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/SW-ROM-Shifted-MHD-2D-LowRes.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/1D_MHD_shifted-comparison.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/1D_MHD_shifted-comparison.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/A/Relative_Error_MHD_A_1D.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/A/Relative_Error_MHD_A_1D.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/A/sensitivity_to_number_of_training_snapshots.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/A/sensitivity_to_number_of_training_snapshots.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/A/shifted_opinf_results_mhd_A_1D.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/A/shifted_opinf_results_mhd_A_1D.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/shifted_dataset_MHD.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/shifted_dataset_MHD.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/MHD_HUX_OpInf_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/MHD_HUX_OpInf_streamlines.png" afterDir="false" />
-    </list>
+    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="update figures for publication." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +51,7 @@
       <workItem from="1644864271954" duration="1388000" />
       <workItem from="1644953879608" duration="32000" />
       <workItem from="1644953941158" duration="1351000" />
+      <workItem from="1646247163501" duration="50000" />
     </task>
     <task id="LOCAL-00001" summary="ignore data files.">
       <created>1639173902875</created>
@@ -295,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645656253049</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="update figures for publication.">
+      <created>1646247187868</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1646247187868</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,7 +310,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add MHD." />
     <MESSAGE value="Add figs." />
     <MESSAGE value="UPDATE README." />
     <MESSAGE value="add to git" />
@@ -339,6 +334,7 @@
     <MESSAGE value="fix figures for manuscript." />
     <MESSAGE value="fix slicing error." />
     <MESSAGE value="fix date of edit." />
-    <option name="LAST_COMMIT_MESSAGE" value="fix date of edit." />
+    <MESSAGE value="update figures for publication." />
+    <option name="LAST_COMMIT_MESSAGE" value="update figures for publication." />
   </component>
 </project>
