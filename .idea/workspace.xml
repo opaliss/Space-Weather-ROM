@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="rename files.">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="readme">
+      <change beforePath="$PROJECT_DIR$/Burgers/.ipynb_checkpoints/S-OpInf-Burgers-Eq-Quadratic-Form-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Burgers/.ipynb_checkpoints/S-OpInf-Burgers-Eq-Quadratic-Form-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Burgers/S-OpInf-Burgers-Eq-Quadratic-Form.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Burgers/S-OpInf-Burgers-Eq-Quadratic-Form.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrossCorrelation/.ipynb_checkpoints/Cross-Correlation-Tutorial-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CrossCorrelation/.ipynb_checkpoints/Cross-Correlation-Tutorial-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-Tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-Tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrossCorrelation/figs/comparison-of-techniques-cc-np128.png" beforeDir="false" afterPath="$PROJECT_DIR$/CrossCorrelation/figs/comparison-of-techniques-cc-np128.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/sOpInf-HUX-Equator.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/sOpInf-HUX-Equator.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/1D_MHD_shifted-comparison.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/1D_MHD_shifted-comparison.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/A/Relative_Error_MHD_A_1D.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/A/Relative_Error_MHD_A_1D.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/A/sensitivity_to_number_of_training_snapshots.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/A/sensitivity_to_number_of_training_snapshots.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/A/shifted_opinf_results_mhd_A_1D.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/A/shifted_opinf_results_mhd_A_1D.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/H/MAS_HUX_sOpInf_H_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/MAS_HUX_sOpInf_H_streamlines.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/H/sopinf_vs_MAS_H_2dprofile.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/sopinf_vs_MAS_H_2dprofile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/HUX_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/HUX_streamlines.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/HUX_vs_MAS_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/HUX_vs_MAS_streamlines.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/MAS_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/MAS_streamlines.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/L2_error.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/L2_error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/shifted_HUX_relative_error_cAH.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/shifted_HUX_relative_error_cAH.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/sopinf_vs_mhd_cAH.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/sopinf_vs_mhd_cAH.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/cdf_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cdf_streamlines.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/original_dataset_MHD.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/original_dataset_MHD.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/sOpInf_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/sOpInf_streamlines.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/sOpInf_vs_MAS_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/sOpInf_vs_MAS_streamlines.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/shifted_dataset_MHD.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/shifted_dataset_MHD.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/singular_value_decay_MAS_equator.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/singular_value_decay_MAS_equator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/MHD_HUX_OpInf_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/MHD_HUX_OpInf_streamlines.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/sOpInf-MHD-Equator.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/sOpInf-MHD-Equator.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/sOpInf-MHD-FullSun.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/sOpInf-MHD-FullSun.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +80,7 @@
       <workItem from="1644953879608" duration="32000" />
       <workItem from="1644953941158" duration="1351000" />
       <workItem from="1646247163501" duration="50000" />
-      <workItem from="1647909510310" duration="2398000" />
+      <workItem from="1647909510310" duration="2736000" />
     </task>
     <task id="LOCAL-00001" summary="ignore data files.">
       <created>1639173902875</created>
@@ -336,7 +362,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647927563555</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="readme">
+      <created>1647927951037</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1647927951037</updated>
+    </task>
+    <task id="LOCAL-00042" summary="readme">
+      <created>1647927972723</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1647927972723</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,7 +395,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add MHD 2D results for linear model." />
     <MESSAGE value="optimize rank and regularization coefficient." />
     <MESSAGE value="Add JB data (gitignore)" />
     <MESSAGE value="fix theta axis (flipped)" />
@@ -380,6 +419,7 @@
     <MESSAGE value="remove other cr data." />
     <MESSAGE value="add images." />
     <MESSAGE value="rename files." />
-    <option name="LAST_COMMIT_MESSAGE" value="rename files." />
+    <MESSAGE value="readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme" />
   </component>
 </project>
