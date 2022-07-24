@@ -2,19 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="Fix Burgers' equation shock formation (charcteristic curve).">
-      <change afterPath="$PROJECT_DIR$/Burgers/Burgers-find-c(t).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Burgers/Burgers-find-c(t)-test-toy-problem.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Burgers/sOpInf-Inviscid-Burgers-Eq-Quadratic-Form-CCE.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Burgers/shock_curve.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HUX/notebook_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Burgers/Burgers-find-c(t).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Burgers/Burgers-find-c(t).ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Burgers/figs/burgers_eqn_comparison_of_methods_to_compute_shift.png" beforeDir="false" afterPath="$PROJECT_DIR$/Burgers/figs/burgers_eqn_comparison_of_methods_to_compute_shift.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Burgers/figs/burgers_original.png" beforeDir="false" afterPath="$PROJECT_DIR$/Burgers/figs/burgers_original.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Burgers/figs/burgers_shifted.png" beforeDir="false" afterPath="$PROJECT_DIR$/Burgers/figs/burgers_shifted.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Burgers/figs/singular_value_decay_burgers.png" beforeDir="false" afterPath="$PROJECT_DIR$/Burgers/figs/singular_value_decay_burgers.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Burgers/figs/sopinf_vs_burgers.png" beforeDir="false" afterPath="$PROJECT_DIR$/Burgers/figs/sopinf_vs_burgers.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Burgers/sOpInf-Inviscid-Burgers-Eq-Quadratic-Form.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Burgers/sOpInf-Inviscid-Burgers-Eq-Quadratic-Form.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Burgers/sOpInf-Inviscid-Burgers-Eq-Quadratic-Form.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/A/L2_error_operator_inference_mhd_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/A/L2_error_operator_inference_mhd_A.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/A/Relative_Error_HUX_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/A/Relative_Error_HUX_A.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/A/sensitivity_to_number_of_training_snapshots.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/A/sensitivity_to_number_of_training_snapshots.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/A/shifted_opinf_results_hux_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/A/shifted_opinf_results_hux_A.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/H/shifted_HUX_relative_error_H.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/H/shifted_HUX_relative_error_H.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/H/sopinf_vs_hux_H.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/H/sopinf_vs_hux_H.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/cAH/L2_error.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/cAH/L2_error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/cAH/shifted_HUX_relative_error_cAH.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/cAH/shifted_HUX_relative_error_cAH.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/cAH/sopinf_vs_hux_cAH.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/cAH/sopinf_vs_hux_cAH.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/original_dataset_HUX.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/original_dataset_HUX.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/shifted_dataset_HUX.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/shifted_dataset_HUX.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/singular_value_decay.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/singular_value_decay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUX/sOpInf-HUX-Equator.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/H/pcc_shifted_operator_inference_mhd.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/pcc_shifted_operator_inference_mhd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/HUX_vs_MAS_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/HUX_vs_MAS_streamlines.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/RE-comparison-cAH.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/RE-comparison-cAH.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/sOpInf_vs_MAS_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/sOpInf_vs_MAS_streamlines.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/sOpInf-MHD-Equator.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/sOpInf-MHD-Equator.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHD/sOpInf-MHD-FullSun.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/sOpInf-MHD-FullSun.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,6 +93,10 @@
       <workItem from="1646247163501" duration="50000" />
       <workItem from="1647909510310" duration="2736000" />
       <workItem from="1657300644658" duration="1187000" />
+      <workItem from="1657572098793" duration="643000" />
+      <workItem from="1658111407363" duration="1281000" />
+      <workItem from="1658161022058" duration="2528000" />
+      <workItem from="1658687601913" duration="1216000" />
     </task>
     <task id="LOCAL-00001" summary="ignore data files.">
       <created>1639173902875</created>
@@ -365,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657474758540</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Fix Burgers' equation shock formation (charcteristic curve).">
+      <created>1657572102793</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1657572102793</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
