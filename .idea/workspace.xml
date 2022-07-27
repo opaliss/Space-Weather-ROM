@@ -1,61 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="Fix Burgers' equation shock formation (charcteristic curve).">
-      <change afterPath="$PROJECT_DIR$/HUX/HUX-find-c(t)-MOC.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUX/sOpInf-HUX-Equator-CCE.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUX/sOpInf-HUX-Equator-Comparison-of-Models-CCE.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUX/sOpInf-HUX-Equator-MOC.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HUX/shock_curve_S1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MHD/notebook_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hux_code/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Burgers/figs/burgers_eqn_comparison_of_methods_to_compute_shift.png" beforeDir="false" afterPath="$PROJECT_DIR$/Burgers/figs/burgers_eqn_comparison_of_methods_to_compute_shift.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Burgers/sOpInf-Inviscid-Burgers-Eq-Quadratic-Form-CCE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Burgers/sOpInf-Inviscid-Burgers-Eq-Quadratic-Form-CCE.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Burgers/sOpInf-Inviscid-Burgers-Eq-Quadratic-Form-MOC.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Burgers/sOpInf-Inviscid-Burgers-Eq-Quadratic-Form-MOC.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CrossCorrelation/.ipynb_checkpoints/Cross-Correlation-Tutorial-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CrossCorrelation/.ipynb_checkpoints/Cross-Correlation-Tutorial-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-Tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CrossCorrelation/Cross-Correlation-Tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/A/L2_error_operator_inference_mhd_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/A/L2_error_operator_inference_mhd_A.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/A/Relative_Error_HUX_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/A/Relative_Error_HUX_A.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/A/pcc_shifted_operator_inference_mhd_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/A/pcc_shifted_operator_inference_mhd_A.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/A/sensitivity_to_number_of_training_snapshots.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/A/sensitivity_to_number_of_training_snapshots.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/A/shifted_opinf_results_hux_A.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/A/shifted_opinf_results_hux_A.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/H/shifted_HUX_relative_error_H.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/H/shifted_HUX_relative_error_H.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/H/sopinf_vs_hux_H.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/H/sopinf_vs_hux_H.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/cAH/shifted_HUX_relative_error_cAH.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/cAH/shifted_HUX_relative_error_cAH.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/figs/CR2210/shifted_dataset_HUX.png" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/figs/CR2210/shifted_dataset_HUX.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUX/notebook_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/HUX/notebook_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/A/Relative_Error_MHD_A_1D.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/A/Relative_Error_MHD_A_1D.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/A/mhd_2D_VROM_slices.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/A/mhd_2D_VROM_slices.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/A/mhd_2D_XROM_shifted_slices.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/A/mhd_2D_XROM_shifted_slices.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/A/mhd_2D_relative_error.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/A/mhd_2D_relative_error.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/A/pcc_shifted_operator_inference_mhd.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/A/pcc_shifted_operator_inference_mhd.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/A/sensitivity_to_number_of_training_snapshots.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/A/sensitivity_to_number_of_training_snapshots.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/A/shifted_opinf_results_mhd_A_1D.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/A/shifted_opinf_results_mhd_A_1D.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/H/MAS_HUX_sOpInf_H_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/MAS_HUX_sOpInf_H_streamlines.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/H/MAS_equator.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/MAS_equator.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/H/RE_equator.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/RE_equator.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/H/pcc_shifted_operator_inference_mhd.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/pcc_shifted_operator_inference_mhd.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/H/sOpInf_equator.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/sOpInf_equator.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/H/sopinf_vs_MAS_H.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/sopinf_vs_MAS_H.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/H/sopinf_vs_MAS_H_2dprofile.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/sopinf_vs_MAS_H_2dprofile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/HUX_vs_MAS_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/HUX_vs_MAS_streamlines.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/2D-side-by-side-comparison-cAH.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/2D-side-by-side-comparison-cAH.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/RE-comparison-cAH.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/RE-comparison-cAH.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/mhd_2D_VROM_slices.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/mhd_2D_VROM_slices.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/mhd_2D_relative_error.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/mhd_2D_relative_error.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/pcc_shifted_operator_inference_mhd.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cAH/pcc_shifted_operator_inference_mhd.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/cdf_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/cdf_streamlines.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/sOpInf_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/sOpInf_streamlines.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/CR2210/sOpInf_vs_MAS_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/CR2210/sOpInf_vs_MAS_streamlines.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/figs/MHD_HUX_OpInf_streamlines.png" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/figs/MHD_HUX_OpInf_streamlines.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/sOpInf-MHD-Equator.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/sOpInf-MHD-Equator.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHD/sOpInf-MHD-FullSun.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MHD/sOpInf-MHD-FullSun.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/archimedes_sprial.py" beforeDir="false" afterPath="$PROJECT_DIR$/hux_code/archimedes_sprial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/carrington_dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/hux_code/carrington_dates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/hux_propagation.py" beforeDir="false" afterPath="$PROJECT_DIR$/hux_code/hux_propagation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/numerical_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/hux_code/numerical_methods.py" afterDir="false" />
+    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="Compute HUX ROM via MOC.">
+      <change afterPath="$PROJECT_DIR$/MHD/sOpInf-MAS-Equator-Comparison-of-Models.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/sOpInf-MAS-Full-Sun-Comparison-of-Models.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +77,7 @@
       <workItem from="1658777616178" duration="1061000" />
       <workItem from="1658793914009" duration="823000" />
       <workItem from="1658852334109" duration="1686000" />
-      <workItem from="1658858756940" duration="1769000" />
+      <workItem from="1658858756940" duration="2096000" />
     </task>
     <task id="LOCAL-00001" summary="ignore data files.">
       <created>1639173902875</created>
@@ -453,7 +401,28 @@
       <option name="project" value="LOCAL" />
       <updated>1658692810621</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Delete all saved figures in Burgers file.">
+      <created>1658881176609</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1658881176609</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Compute HUX ROM via MOC.">
+      <created>1658881295979</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1658881295979</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Compute HUX ROM via MOC.">
+      <created>1658881321950</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1658881321950</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -472,8 +441,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add JB data (gitignore)" />
-    <MESSAGE value="fix theta axis (flipped)" />
     <MESSAGE value="correct directory imports." />
     <MESSAGE value="Update cross-correlation to be 2D for MHD results." />
     <MESSAGE value="remove thermospheric density results from GitHub." />
@@ -497,6 +464,8 @@
     <MESSAGE value="rename files." />
     <MESSAGE value="readme" />
     <MESSAGE value="Fix Burgers' equation shock formation (charcteristic curve)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix Burgers' equation shock formation (charcteristic curve)." />
+    <MESSAGE value="Delete all saved figures in Burgers file." />
+    <MESSAGE value="Compute HUX ROM via MOC." />
+    <option name="LAST_COMMIT_MESSAGE" value="Compute HUX ROM via MOC." />
   </component>
 </project>
