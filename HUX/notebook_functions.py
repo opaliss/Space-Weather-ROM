@@ -36,3 +36,4 @@ def regularizer(r, λ1, λ2):
     diag𝚪 = np.full(r2 + 1, λ1)
     diag𝚪[r1:-1] = λ2
     return diag𝚪
+

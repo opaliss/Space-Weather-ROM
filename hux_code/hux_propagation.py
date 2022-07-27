@@ -3,12 +3,12 @@ import numpy as np
 import copy
 
 
-def apply_hux_f_model(r_initial, dr_vec, dp_vec, r0=30 * 695700, alpha=0.15, rh=50 * 695700, add_v_acc=True,
+def apply_hux_f_model(initial_condition, dr_vec, dp_vec, r0=30 * 695700, alpha=0.15, rh=50 * 695700, add_v_acc=True,
                       omega_rot=(2 * np.pi) / (25.38 * 86400)):
     """Apply 1d upwind model to the inviscid burgers equation.
     r/phi grid. return and save all radial velocity slices.
 
-    :param r_initial: 1d array, initial condition (vr0). units = (km/sec).
+    :param initial_condition: 1d array, initial condition (vr0). units = (km/sec).
     :param dr_vec: 1d array, mesh spacing in r. units = (km)
     :param dp_vec: 1d array, mesh spacing in p. units = (radians)
     :param alpha: float, hyper parameter for acceleration (default = 0.15).
@@ -19,7 +19,7 @@ def apply_hux_f_model(r_initial, dr_vec, dp_vec, r0=30 * 695700, alpha=0.15, rh=
     :return: velocity matrix dimensions (nr x np)
     """
     v = np.zeros((len(dr_vec) + 1, len(dp_vec) + 1))  # initialize array vr.
-    v[0, :] = r_initial
+    v[0, :] = initial_condition
 
     if add_v_acc:
         v_acc = alpha * (v[0, :] * (1 - np.exp(-r0 / rh)))
@@ -39,7 +39,6 @@ def apply_hux_f_model(r_initial, dr_vec, dp_vec, r0=30 * 695700, alpha=0.15, rh=
                 frac1 = (v[i, j + 1] - v[i, j]) / v[i, j]
                 frac2 = (omega_rot * dr_vec[i]) / dp_vec[j]
                 v[i + 1, j] = v[i, j] + frac1 * frac2
-
     return v
 
 
