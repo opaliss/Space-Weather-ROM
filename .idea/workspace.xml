@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="Add MAS comparison of model forms Jupyters.">
+    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="Add Burgers' with Gaussian Noise (Appendix A).">
+      <change afterPath="$PROJECT_DIR$/HUX/sOpInf-HUX-Equator-Comparison-of-Models-MOC-Rank.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/A/L2_error_operator_inference_mhd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/A/pcc_sopinf_mhd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/L2_error_operator_inference_mhd_H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/CR2210/H/sensitivity_to_number_of_training_snapshots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/model_form/MAS_Equator_comparison_model_form.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/model_form/MAS_full_sun_comparison_model_form.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/number_of_model_parameters_MAS2D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/number_of_model_parameters_MAS3D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/figs/singular_value_decay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/sOpInf-MAS-Equator-Comparison-of-Models-Rank.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MHD/sOpInf-MAS-Full-Sun-Comparison-of-Models-Rank.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,13 +89,7 @@
       <workItem from="1658793914009" duration="823000" />
       <workItem from="1658852334109" duration="1686000" />
       <workItem from="1658858756940" duration="2839000" />
-    </task>
-    <task id="LOCAL-00002" summary="Add MHD.">
-      <created>1639174086446</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1639174086446</updated>
+      <workItem from="1660614697616" duration="912000" />
     </task>
     <task id="LOCAL-00003" summary="Add figs.">
       <created>1639174374063</created>
@@ -421,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658881407534</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Add Burgers' with Gaussian Noise (Appendix A).">
+      <created>1660614763888</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1660614763888</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,7 +453,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update cross-correlation to be 2D for MHD results." />
     <MESSAGE value="remove thermospheric density results from GitHub." />
     <MESSAGE value="ignore fine-longitude-grid cc notebook." />
     <MESSAGE value="clean figs." />
@@ -465,6 +477,7 @@
     <MESSAGE value="Delete all saved figures in Burgers file." />
     <MESSAGE value="Compute HUX ROM via MOC." />
     <MESSAGE value="Add MAS comparison of model forms Jupyters." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add MAS comparison of model forms Jupyters." />
+    <MESSAGE value="Add Burgers' with Gaussian Noise (Appendix A)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Burgers' with Gaussian Noise (Appendix A)." />
   </component>
 </project>
