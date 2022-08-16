@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="Compute HUX ROM via MOC.">
-      <change afterPath="$PROJECT_DIR$/MHD/sOpInf-MAS-Equator-Comparison-of-Models.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MHD/sOpInf-MAS-Full-Sun-Comparison-of-Models.ipynb" afterDir="false" />
+    <list default="true" id="39547233-c970-4cfe-8c8b-662d3501afe0" name="Changes" comment="Add MAS comparison of model forms Jupyters.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,14 +76,7 @@
       <workItem from="1658777616178" duration="1061000" />
       <workItem from="1658793914009" duration="823000" />
       <workItem from="1658852334109" duration="1686000" />
-      <workItem from="1658858756940" duration="2096000" />
-    </task>
-    <task id="LOCAL-00001" summary="ignore data files.">
-      <created>1639173902875</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1639173902875</updated>
+      <workItem from="1658858756940" duration="2839000" />
     </task>
     <task id="LOCAL-00002" summary="Add MHD.">
       <created>1639174086446</created>
@@ -422,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658881321950</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Add MAS comparison of model forms Jupyters.">
+      <created>1658881407533</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1658881407534</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,7 +440,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correct directory imports." />
     <MESSAGE value="Update cross-correlation to be 2D for MHD results." />
     <MESSAGE value="remove thermospheric density results from GitHub." />
     <MESSAGE value="ignore fine-longitude-grid cc notebook." />
@@ -466,6 +464,7 @@
     <MESSAGE value="Fix Burgers' equation shock formation (charcteristic curve)." />
     <MESSAGE value="Delete all saved figures in Burgers file." />
     <MESSAGE value="Compute HUX ROM via MOC." />
-    <option name="LAST_COMMIT_MESSAGE" value="Compute HUX ROM via MOC." />
+    <MESSAGE value="Add MAS comparison of model forms Jupyters." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add MAS comparison of model forms Jupyters." />
   </component>
 </project>
