@@ -1,5 +1,4 @@
-# Space-Weather-ROM
-ROM for convective-dominated models with applications to space weather, including solar wind velocity modeling. 
+# [Predicting solar wind streams from the inner-heliosphere to Earth via shifted operator inference](https://www.sciencedirect.com/science/article/pii/S0021999122007525#!)
 
 
 # Dependencies
